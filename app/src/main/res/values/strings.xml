@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RD Survey</string>
+    <string name="title_activity_detail">รายละเอียด</string>
+    <string name="texttitle">แสกนเปิดแผนที่ภาษี</string>
+    <string name="textscan">SCAN</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_menu">menu</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="success_login_msg">Login success</string>
+    <string name="error_login_msg">Please fill any empty fields</string>
+    <string name="show_dialog">Show dialog</string>
+    <string name="login_label">login</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="username">username</string>
+
+</resources>
